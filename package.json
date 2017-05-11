@@ -1,0 +1,27 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Get random star wars names.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andersrapp/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Anders Rapp <anders.rapp@gmail.com> (http://www.andersrapp.se/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andersrapp/starwars-names/issues"
+  },
+  "homepage": "https://github.com/Andersrapp/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
